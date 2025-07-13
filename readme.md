@@ -50,7 +50,7 @@ $ touch package.properties
 In it type:
 
 ```bash
-releaseType="SelfBuilt"
+releaseType=SelfBuilt
 ```
 
 After this launch android studio, import your own signature. You should be able to build gramophone now.
